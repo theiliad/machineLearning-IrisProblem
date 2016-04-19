@@ -6,4 +6,4 @@ A python implementation of the famous "Iris Flower Dataset" problem
 The dataset can be found on WikiPedia:
 https://en.wikipedia.org/wiki/Iris_flower_data_set
 
-<img src="https://github.com/theiliad/machineLearning-IrisProblem/blob/master/dataSet.jpg?raw=true" />
+<img src="https://github.com/theiliad/machineLearning-IrisProblem/blob/master/dataSet.jpg?raw=true" width="600" />

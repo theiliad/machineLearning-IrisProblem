@@ -1,5 +1,7 @@
 # machineLearning-IrisProblem
-A python implementation of the famous "Iris Flower Dataset" problem
+A python implementation of the famous "Iris Flower Dataset" problem.
+
+<b>This implementation is partly retrieved from Google's "Machine Learning Recipes with Josh Gordon" set of tutorials!</b>
 
 <img src="http://im2.ezgif.com/tmp/ezgif-3839614247.gif" width="600" />
 
